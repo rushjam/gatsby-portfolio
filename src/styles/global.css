@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Farro:wght@300;400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Farro';
+    background-color: #131313;
+    color: white
+}
+
+@layer base {
+    h1 {
+        @apply text-3xl;
+    }
+    p {
+        @apply text-lg;
+    }
+}
+
+@screen sm {
+    h1 {
+        @apply text-4xl;
+    }
+}
+
+@screen lg {
+    h1 {
+        @apply text-5xl;
+    }
+    p {
+        @apply text-xl;
+    }
+}
+
+@screen 2xl {
+    h1 {
+        @apply text-6xl;
+    }
+    p {
+        @apply text-2xl;
+    }
+}
