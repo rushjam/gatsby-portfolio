@@ -13,6 +13,7 @@ const Layout = ({ children }) => {
       <Philosophy />
       <SkillSet />
       <Work />
+      <Hero />
     </>
   )
 }

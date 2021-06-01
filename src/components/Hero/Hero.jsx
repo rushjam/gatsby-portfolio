@@ -3,7 +3,7 @@ import heroImage from "../../images/brooke-cagle-JrzzESCqeko-unsplash.jpg"
 
 const Hero = () => {
   return (
-    <div className="flex flex-col relative w-full lg:flex-row ">
+    <div className="flex flex-col relative w-full lg:flex-row" data-scroll-section>
       <div className="z-10 relative lg:relative  sm:max-w-lg md:max-w-2xl  w-11/12 mx-auto">
         <img
           className="lg:absolute lg:transform lg:-translate-y-1/2 lg:top-1/2 lg:max-w-2xl"

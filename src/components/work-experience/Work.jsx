@@ -13,7 +13,7 @@ class Work extends React.Component {
   render() {
     const { workdata } = this.state
     return (
-      <div className="w-11/12 mx-auto sm:max-w-lg lg:max-w-7xl md:max-w-2xl">
+      <div data-scroll-section className="w-11/12 mx-auto sm:max-w-lg lg:max-w-7xl md:max-w-2xl">
         <h2 className="uppercase">Work Experience</h2>
         <h1 className="md:w-2/3 lg:w-1/2 ">
           Companies I have worked for in the past
