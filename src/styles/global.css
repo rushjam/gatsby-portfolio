@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Farro';
-    background-color: #131313;
+    background-color: black;
     color: white
 }
 
@@ -15,13 +15,16 @@ body {
         @apply text-3xl;
     }
     p {
-        @apply text-lg;
+        @apply text-base;
     }
 }
 
 @screen sm {
     h1 {
         @apply text-4xl;
+    }
+    p {
+        @apply text-lg;
     }
 }
 
@@ -31,6 +34,7 @@ body {
     }
     p {
         @apply text-xl;
+        
     }
 }
 

@@ -1,12 +1,17 @@
 import * as React from "react"
 import "./layout.css"
-import Hero from "./Hero/Hero"
+import Hero from "./hero/Hero"
 import Work from "./work-experience/Work"
+import Philosophy from "./philosophy/Philosophy"
+import SkillSet from "./skills/Skills"
 
 const Layout = ({ children }) => {
   return (
     <>
       <Hero />
+      <Work />
+      <Philosophy />
+      <SkillSet />
       <Work />
     </>
   )
