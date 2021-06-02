@@ -11,7 +11,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -19,7 +19,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -27,7 +27,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -35,7 +35,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -43,7 +43,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -51,7 +51,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -59,7 +59,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -67,7 +67,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#1d1d1d] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -75,7 +75,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#000000] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>
@@ -83,7 +83,7 @@ class SkillFooter extends React.Component {
             className="inline-block w-52 h-28 bg-black border-[#000000] text-white border"
             data-scroll-direction="horizontal"
             data-scroll
-            data-scroll-speed={1}
+            data-scroll-speed={3}
           >
             Hlllo
           </div>

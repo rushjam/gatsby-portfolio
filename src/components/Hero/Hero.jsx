@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       <div className="bg-[#161616] relative lg:relative w-full lg:w-screen h-96 lg:h-screen -top-16 lg:top-0">
         <div className="absolute lg:transform lg:-translate-y-1/2 lg:top-1/2 lg:z-50 z-10  top-1/4 lg:mt-0 left-1/2 lg:left-0 transform lg:transform-none lg:translate -translate-x-1/2 w-11/12 mx-auto  mt-2 sm:max-w-lg md:max-w-2xl sm:mt-5 sm:mx-0">
-          <h1 className="font-bold ">I'm Rushik Ramani.</h1>
+          <h1 className="font-bold">I'm Rushik Ramani.</h1>
           <h1 className="font-bold">A Fullstack Developer</h1>
           <h1 className="text-[#7c7c7c] font-bold">based in India</h1>
           <p className="w-11/12">
