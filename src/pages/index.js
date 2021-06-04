@@ -1,13 +1,18 @@
 import * as React from "react"
 import { useState, useRef, useEffect } from "react"
+import { gsap } from "gsap"
+import { ScrollTrigger } from "gsap/ScrollTrigger"
 import useLocoScroll from "../components/hooks/useLocoScroll"
 import Layout from "../components/layout"
 
 const IndexPage = () => {
-  const [preloader, setPreloader] = useState(true)
-  useLocoScroll(!preloader);
+  useEffect(() => {
+    gsap.registerPlugin(ScrollTrigger)
+  }, [])
 
+  const [preloader, setPreloader] = useState(true)
   const [timer, setTimer] = useState(1)
+  useLocoScroll(!preloader)
 
   const id = useRef(null)
 

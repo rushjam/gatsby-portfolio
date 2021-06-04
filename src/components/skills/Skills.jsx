@@ -41,6 +41,7 @@ class SkillSet extends React.Component {
                 <SkillCard id={id} {...otherProps} />
               ))}
           </div>
+          <div>Hello</div>
         </div>
         <SkillFooter />
       </div>

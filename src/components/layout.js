@@ -5,6 +5,8 @@ import Work from "./work-experience/Work"
 import Philosophy from "./philosophy/Philosophy"
 import SkillSet from "./skills/Skills"
 import Projects from "./projects/Projects"
+import Github from "./github/Github"
+import Blog from "./blog/Blog"
 
 const Layout = ({ children }) => {
   return (
@@ -14,7 +16,9 @@ const Layout = ({ children }) => {
       <Philosophy />
       <SkillSet />
       <Projects />
-
+      <Github />
+      <Blog />
+      <Projects />
     </>
   )
 }
